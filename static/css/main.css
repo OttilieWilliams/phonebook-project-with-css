@@ -30,7 +30,7 @@ button {
 
 
 main {
-  background-image: url("background_03.jpg");
+  background-image: url("../images/background_03.jpg");
   background-size: cover;
   height: 550px;
 }
